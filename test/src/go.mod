@@ -1,4 +1,4 @@
-module github.com/cloudposse/terraform-example-module
+module github.com/developertown/terraform-module-template
 
 go 1.19
 
